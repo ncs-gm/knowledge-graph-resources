@@ -145,19 +145,62 @@
 
 ### 3.1 Information extraction
 
+1. Etzioni, Oren, Michael J. Cafarella, Doug Downey, Stanley Kok, Ana-Maria Popescu, Tal Shaked, Stephen Soderland, Daniel S. Weld and Alexander Yates. “Web-scale information extraction in knowitall: (preliminary results).” WWW '04 (2004).
+2. Banko, Michele, Michael J. Cafarella, Stephen Soderland, Matthew Broadhead and Oren Etzioni. “Open Information Extraction from the Web.” CACM (2008).
+3. Sarawagi, Sunita. “Information Extraction.” Found. Trends Databases 1 (2008): 261-377.
+4. Fader, Anthony, Stephen Soderland and Oren Etzioni. “Identifying Relations for Open Information Extraction.” EMNLP (2011).
+5. Fan, James, Aditya Kalyanpur, David Gondek and David A. Ferrucci. “Automatic knowledge extraction from documents.” IBM J. Res. Dev. 56 (2012): 5.
+6. Hearst, Marti A.. “Automatic Acquisition of Hyponyms from Large Text Corpora.” COLING (1992).
+
 ### 3.2 Relation extraction
 
 #### 3.2.1 Neural relation extraction
 
+1. Zeng, Daojian, Kang Liu, Siwei Lai, Guangyou Zhou and Jun Zhao. “Relation Classification via Convolutional Deep Neural Network.” COLING (2014).
+2. Nguyen, Thien Huu and Ralph Grishman. “Relation Extraction: Perspective from Convolutional Neural Networks.” VS@HLT-NAACL (2015).
+3. Zeng, Daojian, Kang Liu, Yubo Chen and Jun Zhao. “Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks.” EMNLP (2015).
+4. Jiang, Xiaotian, Quan Wang, Peng Li and Bin Wang. “Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks.” COLING (2016).
+5. Ye, Hai, Wen-Han Chao, Zhunchen Luo and Zhoujun Li. “Jointly Extracting Relations with Class Ties via Effective Deep Ranking.” ACL (2017).
+6. Zeng, Wenyuan, Yankai Lin, Zhiyuan Liu and Maosong Sun. “Incorporating Relation Paths in Neural Relation Extraction.” EMNLP (2017).
+7. Xu, Yan, Lili Mou, Ge Li, Yunchuan Chen, Hao Peng and Zhi Jin. “Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Paths.” EMNLP (2015).
+8. Miwa, Makoto and Mohit Bansal. “End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures.” ArXiv abs/1601.00770 (2016): n. pag.
+9. Cai, Rui, Xiaodong Zhang and Houfeng Wang. “Bidirectional Recurrent Convolutional Neural Network for Relation Classification.” ACL (2016).
+
 #### 3.2.2 Attention mechanism
+
+1. Shen, Yatian and Xuanjing Huang. “Attention-Based Convolutional Neural Network for Semantic Relation Extraction.” COLING (2016).
+2. Lin, Yankai, Shiqi Shen, Zhiyuan Liu, Huanbo Luan and Maosong Sun. “Neural Relation Extraction with Selective Attention over Instances.” ACL (2016).
+3. Ji, Guoliang, Kang Liu, Shizhu He and Jun Zhao. “Distant Supervision for Relation Extraction with Sentence-Level Attention and Entity Descriptions.” AAAI (2017).
+4. Han, Xu, Pengfei Yu, Zhiyuan Liu, Maosong Sun and Peng Li. “Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention.” EMNLP (2018).
+5. Baldini Soares, Livio, Nicholas FitzGerald, Jeffrey Ling and Tom Kwiatkowski. “Matching the Blanks: Distributional Similarity for Relation Learning.” ArXiv abs/1906.03158 (2019): n. pag.
+6. Zhou, P., Wei Shi, Jun Tian, Zhenyu Qi, Bingchen Li, Hongwei Hao and Bo Xu. “Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification.” ACL (2016).
 
 #### 3.2.3 Graph Convolutional Networks
 
+1. Zhang, Yuhao, Peng Qi and Christopher D. Manning. “Graph Convolution over Pruned Dependency Trees Improves Relation Extraction.” EMNLP (2018).
+2. Zhang, Ningyu, Shumin Deng, Zhanlin Sun, Guanying Wang, Xi Chen, Wei Zhang and Huajun Chen. “Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks.” ArXiv abs/1903.01306 (2019): n. pag.
+3. Guo, Zhijiang, Yan Zhang and Wei Lu. “Attention Guided Graph Convolutional Networks for Relation Extraction.” ArXiv abs/1906.07510 (2019): n. pag.
+
 #### 3.2.4 Adversarial Training
+
+1. Wu, Yi, David Bamman and Stuart J. Russell. “Adversarial Training for Relation Extraction.” EMNLP (2017).
+2. Qin, Pengda, Weiran Xu and William Yang Wang. “DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction.” ACL (2018).
 
 #### 3.2.5 Reinforcement learning
 
+1. Qin, Pengda, Weiran Xu and William Yang Wang. “Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning.” ACL (2018).
+2. Zeng, Xiangrong, Shizhu He, Kang Liu and Jun Zhao. “Large Scaled Relation Extraction With Reinforcement Learning.” AAAI (2018).
+3. Feng, Jun, Minlie Huang, Li Zhao, Yang Yang and Xiaoyan Zhu. “Reinforcement Learning for Relation Classification From Noisy Data.” AAAI (2018).
+4. Takanobu, Ryuichi, Tianyang Zhang, Jiexi Liu and Minlie Huang. “A Hierarchical Framework for Relation Extraction with Reinforcement Learning.” ArXiv abs/1811.03925 (2019): n. pag.
+5. 
+
 ### 3.3 Event extraction
+
+1. Chen, Yubo, Liheng Xu, Kang Liu, Daojian Zeng and Jun Zhao. “Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks.” ACL (2015).
+2. Nguyen, Thien Huu and Ralph Grishman. “Event Detection and Domain Adaptation with Convolutional Neural Networks.” ACL (2015).
+3. Hogenboom, Frederik, Flavius Frasincar, Uzay Kaymak and Franciska de Jong. “An Overview of Event Extraction from Text.” DeRiVE@ISWC (2011).
+4. Narasimhan, Karthik, Adam Yala and Regina Barzilay. “Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning.” EMNLP (2016).
+5. Nguyen, Thien Huu, Kyunghyun Cho and Ralph Grishman. “Joint Event Extraction via Recurrent Neural Networks.” NAACL (2016).
 
 ## 4. Knowledge fusion
 
@@ -183,6 +226,31 @@
 #### 5.2.3 Neural Networks based Models
 
 #### 5.2.4 Graph Neural Networks based Models
+
+1. Schlichtkrull, M., Thomas Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov and Max Welling. “Modeling Relational Data with Graph Convolutional Networks.” ArXiv abs/1703.06103 (2018): n. pag.
+2. Bansal, Trapit, Da-Cheng Juan, Sujith Ravi and Andrew McCallum. “A2N: Attending to Neighbors for Knowledge Graph Inference.” ACL (2019).
+3. Shang, Chao, Yun Tang, Jing Huang, Jinbo Bi, Xiaodong He and Bowen Zhou. “End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion.” AAAI (2019).
+4. Ye, Rui, Xin Li, Yujie Fang, Hongyu Zang and Mingzhong Wang. “A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment.” IJCAI (2019).
+5. Wu, Yuting, Xiao Liu, Yansong Feng, Zheng Wang, Rui Yan and Dongyan Zhao. “Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs.” ArXiv abs/1908.08210 (2019): n. pag.
+6. Ioannidis, Vassilis N., Antonio Garcia Marques and Georgios B. Giannakis. “A Recurrent Graph Neural Network for Multi-relational Data.” ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2019): 8157-8161.
+7. Wang, Rui, Bicheng Li, Shengwei Hu, Wenqian Du and Min Zhang. “Knowledge Graph Embedding via Graph Attenuated Attention Networks.” IEEE Access 8 (2020): 5212-5224.
+8. Vashishth, Shikhar, Soumya Sanyal, Vikram Nitin and Partha Pratim Talukdar. “Composition-based Multi-Relational Graph Convolutional Networks.” ArXiv abs/1911.03082 (2020): n. pag.
+9. Xu, Xiaoran, Wei Feng, Yunsheng Jiang, Xiaohui Xie, Zhiqing Sun and Zhihong Deng. “Dynamically Pruned Message Passing Networks for Large-Scale Knowledge Graph Reasoning.” ArXiv abs/1909.11334 (2020): n. pag.
+10. Zhang, Zhao, Fuzhen Zhuang, Hengshu Zhu, Zhiping Shi, Hui Xiong and Qing He. “Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion.” AAAI (2020).
+11. Wang, Shen, Xiaokai Wei, Cicero Nogueira dos Santos, Zhiguo Wang, Ramesh Nallapati, Andrew O. Arnold, Bing Xiang, Philip S. Yu and Isabel F. Cruz. “Mixed-Curvature Multi-Relational Graph Neural Network for Knowledge Graph Completion.” Proceedings of the Web Conference 2021 (2021): n. pag.
+12. Zhao, Yu, Han Zhou, Ruobing Xie, Fuzhen Zhuang, Qing Li and Ji Liu. “Incorporating Global Information in Local Attention for Knowledge Representation Learning.” FINDINGS (2021).
+13. Han, Yanfei, Quan Fang, Jun Hu, Shengsheng Qian and Changsheng Xu. “GAEAT: Graph Auto-Encoder Attention Networks for Knowledge Graph Completion.” Proceedings of the 29th ACM International Conference on Information & Knowledge Management (2020): n. pag.
+14. Yu, Donghan, Yiming Yang, Ruohong Zhang and Yuexin Wu. “Knowledge Embedding Based Graph Convolutional Network.” Proceedings of the Web Conference 2021 (2021): n. pag.
+15. Ji, Kexi, Bei Hui and Guangchun Luo. “Graph Attention Networks With Local Structure Awareness for Knowledge Graph Completion.” IEEE Access 8 (2020): 224860-224870.
+16. Tian, Anqi, Chunhong Zhang, Miao Rang, Xueying Yang and Zhiqiang Zhan. “RA-GCN: Relational Aggregation Graph Convolutional Network for Knowledge Graph Completion.” Proceedings of the 2020 12th International Conference on Machine Learning and Computing (2020): n. pag.
+17. Cai, Ling, Bo Yan, Gengchen Mai, Krzysztof Janowicz and Rui Zhu. “TransGCN: Coupling Transformation Assumptions with Graph Convolutional Networks for Link Prediction.” Proceedings of the 10th International Conference on Knowledge Capture (2019): n. pag.
+18. Liu, Xiyang, Huobin Tan, Qinghong Chen and Guangyan Lin. “RAGAT: Relation Aware Graph Attention Network for Knowledge Graph Completion.” IEEE Access 9 (2021): 20840-20849.
+19. Wang, Guangtao, Rex Ying, Jing Huang and Jure Leskovec. “Multi-hop Attention Graph Neural Network.” (2020).
+20. Thanapalasingam, Thiviyan, Lucas van Berkel, Peter Bloem and Paul T. Groth. “Relational Graph Convolutional Networks: A Closer Look.” ArXiv abs/2107.10015 (2021): n. pag.
+21. Song, Yichen, Aiping Li, Hongkui Tu, Kai Chen and Chenchen Li. “A Novel Encoder-Decoder Knowledge Graph Completion Model for Robot Brain.” Frontiers in Neurorobotics 15 (2021): n. pag.
+22. Wu, Junkang, Wentao Shi, Xuezhi Cao, Jiawei Chen, Wenqiang Lei, Fuzheng Zhang, Wei Wu and Xiangnan He. “DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network.” Proceedings of the 30th ACM International Conference on Information & Knowledge Management (2021): n. pag.
+23. Li, Qian, Daling Wang, Shi Feng, Cheng Niu and Yifei Zhang. “Global Graph Attention Embedding Network for Relation Prediction in Knowledge Graphs.” IEEE transactions on neural networks and learning systems PP (2021): n. pag.
+24. Zhou, Xue, Bei Hui, Lizong Zhang and Kexi Ji. “A structure distinguishable graph attention network for knowledge base completion.” Neural Comput. Appl. 33 (2021): 16005-16017.
 
 ### 5.3 Multi-source Information Fusion Models
 
