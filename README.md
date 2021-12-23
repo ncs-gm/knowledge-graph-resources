@@ -4,13 +4,29 @@
 
 ## 2. Knowledge representation and modeling
 
+### 2.1 Representation Space
+
+### 2.2 Scoring function
+
+### 2.3 Encoding models
+
+### 2.4 Embedding with Auxiliary information
+
 ## 3. Knowledge extraction
 
 ### 3.1 Information extraction
 
-
 ### 3.2 Relation extraction
 
+#### 3.2.1 Neural relation extraction
+
+#### 3.2.2 Attention mechanism
+
+#### 3.2.3 Graph Convolutional Networks
+
+#### 3.2.4 Adversarial Training
+
+#### 3.2.5 Reinforcement learning
 
 ### 3.3 Event extraction
 
@@ -46,7 +62,7 @@
 
 #### 5.3.7 Entity Attributes
 
-#### 5.3.8 Temporal Information
+### 5.4 Temporal knowledge graph
 
 ## 6. Knowledge reasoning/knowledge mining
 
