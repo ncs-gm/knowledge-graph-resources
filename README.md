@@ -2,6 +2,16 @@
 
 ## 1. Knowledge graph construction
 
+### 1.1 Domain Discovery
+
+### 1.2 Named Entity Recognition
+
+### 1.3 Web Information Extraction
+
+### 1.4 Relation Extraction
+
+### 1.5 Nontraditional Information Extraction
+
 ## 2. Knowledge representation and modeling
 
 ### 2.1 Representation Space
@@ -118,6 +128,19 @@
 
 ### 2.4 Embedding with Auxiliary information
 
+#### 2.4.1 Text information
+
+1. Wang, Zhen, Jianwen Zhang, Jianlin Feng and Zheng Chen. “Knowledge Graph and Text Jointly Embedding.” EMNLP (2014).
+2. Xie, Ruobing, Zhiyuan Liu, Jia Jia, Huanbo Luan and Maosong Sun. “Representation Learning of Knowledge Graphs with Entity Descriptions.” AAAI (2016).
+3. Xiao, Han, Minlie Huang, Lian Meng and Xiaoyan Zhu. “SSP: Semantic Space Projection for Knowledge Graph Embedding with Text Descriptions.” AAAI (2017).
+4. 
+
+#### 2.4.2 Type information
+
+#### 2.4.3 Visual information
+
+#### 2.4.4 Uncertain information
+
 ## 3. Knowledge extraction
 
 ### 3.1 Information extraction
@@ -143,6 +166,13 @@
 ### 5.1 Survey
 
 1. Ji, Shaoxiong, Shirui Pan, E. Cambria, Pekka Marttinen and Philip S. Yu. “A Survey on Knowledge Graphs: Representation, Acquisition and Applications.” IEEE transactions on neural networks and learning systems PP (2021): n. pag.
+2. Nickel, Maximilian, Kevin P. Murphy, Volker Tresp and Evgeniy Gabrilovich. “A Review of Relational Machine Learning for Knowledge Graphs.” Proceedings of the IEEE 104 (2016): 11-33.
+3. Paulheim, Heiko. “Knowledge graph refinement: A survey of approaches and evaluation methods.” Semantic Web 8 (2017): 489-508.
+4. Wu, Tianxing, Guilin Qi, Cheng Li and Meng Wang. “A Survey of Techniques for Constructing Chinese Knowledge Graphs and Their Applications.” Sustainability (2018): n. pag.
+5. Chen, Xiaojun, Shengbin Jia and Yang Xiang. “A review: Knowledge reasoning over knowledge graph.” Expert Syst. Appl. 141 (2020): n. pag.
+6. Wang, Quan, Zhendong Mao, Bin Wang and Li Guo. “Knowledge Graph Embedding: A Survey of Approaches and Applications.” IEEE Transactions on Knowledge and Data Engineering 29 (2017): 2724-2743.
+7. Lin, Yankai, Xu Han, Ruobing Xie, Zhiyuan Liu and Maosong Sun. “Knowledge Representation Learning: A Quantitative Review.” ArXiv abs/1812.10901 (2018): n. pag.
+8. 
 
 ### 5.2 Traditional models
 
