@@ -223,7 +223,33 @@
 
 #### 5.2.2 Multiplication/ Matrix-Tensor Factorization/ Semantic Matching Models
 
+**Multiplication**
+
+**Matrix-Tensor Factorization**
+
+**Semantic Matching Models**
+
 #### 5.2.3 Neural Networks based Models
+
+1. Perozzi, Bryan, Rami Al-Rfou and Steven Skiena. “DeepWalk: online learning of social representations.” Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining (2014): n. pag.
+2. Tang, Jian, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan and Qiaozhu Mei. “LINE: Large-scale Information Network Embedding.” Proceedings of the 24th International Conference on World Wide Web (2015): n. pag.
+3. Grover, Aditya and Jure Leskovec. “node2vec: Scalable Feature Learning for Networks.” Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (2016): n. pag.
+4. Wang, Daixin, Peng Cui and Wenwu Zhu. “Structural Deep Network Embedding.” Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (2016): n. pag.
+5. Qiu, Jiezhong, Yuxiao Dong, Hao Ma, Jian Li, Kuansan Wang and Jie Tang. “Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec.” Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining (2018): n. pag.
+6. Qiu, Jiezhong, Yuxiao Dong, Hao Ma, Jun Yu Li, Chi Wang, Kuansan Wang and Jie Tang. “NetSMF: Large-Scale Network Embedding as Sparse Matrix Factorization.” The World Wide Web Conference (2019): n. pag.
+7. Ou, Mingdong, Peng Cui, Jian Pei, Ziwei Zhang and Wenwu Zhu. “Asymmetric Transitivity Preserving Graph Embedding.” Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (2016): n. pag.
+8. Zhang, Jie, Yuxiao Dong, Yan Wang, Jie Tang and Ming Ding. “ProNE: Fast and Scalable Network Representation Learning.” IJCAI (2019).
+9. Glorot, Xavier, Antoine Bordes, Jason Weston and Yoshua Bengio. “A semantic matching energy function for learning with multi-relational data.” Machine Learning 94 (2013): 233-259.
+10. Socher, Richard, Danqi Chen, Christopher D. Manning and A. Ng. “Reasoning With Neural Tensor Networks for Knowledge Base Completion.” NIPS (2013).
+11. Dong, Xin, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, N. Lao, Kevin P. Murphy, Thomas Strohmann, Shaohua Sun and Wei Zhang. “Knowledge vault: a web-scale approach to probabilistic knowledge fusion.” Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining (2014): n. pag.
+12. Dettmers, Tim, Pasquale Minervini, Pontus Stenetorp and Sebastian Riedel. “Convolutional 2D Knowledge Graph Embeddings.” AAAI (2018).
+13. Nguyen, Dai Quoc, Tu Dinh Nguyen, Dat Quoc Nguyen and Dinh Q. Phung. “A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network.” NAACL (2018).
+14. Jiang, Xiaotian, Quan Wang and Bin Wang. “Adaptive Convolution for Multi-Relational Learning.” NAACL (2019).
+15. Stoica, George, Otilia Stretcu, Anthony Platanios, Tom Michael Mitchell and Barnabás Póczos. “Contextual Parameter Generation for Knowledge Graph Link Prediction.” AAAI (2020).
+16. Vashishth, Shikhar, Soumya Sanyal, Vikram Nitin, Nilesh Agrawal and Partha Pratim Talukdar. “InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions.” AAAI (2020).
+17. Nguyen, Dai Quoc, Thanh Vu, Tu Dinh Nguyen, Dat Quoc Nguyen and Dinh Q. Phung. “A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization.” ArXiv abs/1808.04122 (2019): n. pag.
+18. Li, Jun, Jie Hou and Chunyu Zhou. “An Improved Capsule Network-based Embedding Model for Knowledge Graph Completion.” 2021 33rd Chinese Control and Decision Conference (CCDC) (2021): 2247-2251.
+19. Guo, Lingbing, Zequn Sun and Wei Hu. “Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs.” ArXiv abs/1905.04914 (2019): n. pag. 
 
 #### 5.2.4 Graph Neural Networks based Models
 
