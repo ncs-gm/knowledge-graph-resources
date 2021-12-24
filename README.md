@@ -137,9 +137,20 @@
 
 #### 2.4.2 Type information
 
+1. Guo, Shu, Quan Wang, Bin Wang, Lihong Wang and Li Guo. “Semantically Smooth Knowledge Graph Embedding.” ACL (2015).
+2. Xie, Ruobing, Zhiyuan Liu and Maosong Sun. “Representation Learning of Knowledge Graphs with Hierarchical Types.” IJCAI (2016).
+3. Lin, Yankai, Zhiyuan Liu and Maosong Sun. “Knowledge Representation Learning with Entities, Attributes and Relations.” IJCAI (2016).
+4. Zhang, Zhao, Fuzhen Zhuang, Meng Qu, Fen Lin and Qing He. “Knowledge Graph Embedding with Hierarchical Relation Structure.” EMNLP (2018).
+
 #### 2.4.3 Visual information
 
+1. Xie, Ruobing, Zhiyuan Liu, Huanbo Luan and Maosong Sun. “Image-embodied Knowledge Representation Learning.” IJCAI (2017).
+
 #### 2.4.4 Uncertain information
+
+1. Chen, X., Muhao Chen, Weijia Shi, Yizhou Sun and Carlo Zaniolo. “Embedding Uncertain Knowledge Graphs.” AAAI (2019).
+2. Tabacof, Pedro and Luca Costabello. “Probability Calibration for Knowledge Graph Embedding Models.” ArXiv abs/1912.10000 (2020): n. pag.
+3. Safavi, Tara, Danai Koutra and Edgar Meij. “Evaluating the Calibration of Knowledge Graph Embeddings for Trustworthy Link Prediction.” EMNLP (2020).
 
 ## 3. Knowledge extraction
 
@@ -204,6 +215,26 @@
 
 ## 4. Knowledge fusion
 
+1. Noy, Natasha and Mark A. Musen. “PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment.” AAAI/IAAI (2000).
+2. Do, Hong Hai and Erhard Rahm. “COMA - A System for Flexible Combination of Schema Matching Approaches.” VLDB (2002).
+3. Doan, AnHai, Jayant Madhavan, Pedro M. Domingos and Alon Y. Halevy. “Learning to map between ontologies on the semantic web.” WWW '02 (2002).
+4. Ehrig, Marc and Steffen Staab. “QOM - Quick Ontology Mapping.” GI Jahrestagung (2004).
+5. Qu, Yuzhong, Wei Hu and Gong Cheng. “Constructing virtual documents for ontology matching.” WWW '06 (2006).
+6. Hu, Wei, Yuzhong Qu and Gong Cheng. “Matching large ontologies: A divide-and-conquer approach.” Data Knowl. Eng. 67 (2008): 140-160.
+7. Li, Juan-Zi, Jie Tang, Yi Li and Qiong Luo. “RiMOM: A Dynamic Multistrategy Ontology Alignment Framework.” IEEE Transactions on Knowledge and Data Engineering 21 (2009): 1218-1232.
+8. Mao, Ming, Yefei Peng and Michael B. Spring. “An adaptive ontology mapping approach with neural network based constraint satisfaction.” J. Web Semant. 8 (2010): 14-25.
+9. Wang, Peng, Yuming Zhou and Baowen Xu. “Matching Large Ontologies Based on Reduction Anchors.” IJCAI (2011).
+10. Hu, Wei, Jianfeng Chen and Yuzhong Qu. “A self-training approach for resolving object coreference on the semantic web.” WWW (2011).
+11. Ngomo, Axel-Cyrille Ngonga and S. Auer. “LIMES - A Time-Efficient Approach for Large-Scale Link Discovery on the Web of Data.” IJCAI (2011).
+12. Hoffart, Johannes, Mohamed Amir Yosef, Ilaria Bordino, Hagen Fürstenau, Manfred Pinkal, Marc Spaniol, Bilyana Taneva, Stefan Thater and Gerhard Weikum. “Robust Disambiguation of Named Entities in Text.” EMNLP (2011).
+13. Niu, Xing, Shunlin Rong, Haofen Wang and Yong Yu. “An effective rule miner for instance matching in a web of data.” Proceedings of the 21st ACM international conference on Information and knowledge management (2012): n. pag.
+14. Tang, Jie, Alvis Cheuk M. Fong, Bo Wang and Jing Zhang. “A Unified Probabilistic Framework for Name Disambiguation in Digital Library.” IEEE Transactions on Knowledge and Data Engineering 24 (2012): 975-987.
+15. Shvaiko, Pavel and Jérôme Euzenat. “Ontology Matching: State of the Art and Future Challenges.” IEEE Transactions on Knowledge and Data Engineering 25 (2013): 158-176.
+16. Papadakis, George, Ekaterini Ioannou, Themis Palpanas, Claudia Niederée and Wolfgang Nejdl. “A Blocking Framework for Entity Resolution in Highly Heterogeneous Information Spaces.” IEEE Transactions on Knowledge and Data Engineering 25 (2013): 2665-2682.
+17. Li, Juan-Zi, Zhichun Wang, Xiao Zhang and Jie Tang. “Large scale instance matching via multiple indexes and candidate selection.” Knowl. Based Syst. 50 (2013): 112-120.
+18. Sun, Zequn, Wei Hu and Chengkai Li. “Cross-Lingual Entity Alignment via Joint Attribute-Preserving Embedding.” SEMWEB (2017).
+19. Zhang, Yutao, Fanjin Zhang, Peiran Yao and Jie Tang. “Name Disambiguation in AMiner: Clustering, Maintenance, and Human in the Loop.” Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (2018): n. pag.
+
 ## 5. Knowledge Graph Embedding
 
 ### 5.1 Survey
@@ -223,11 +254,31 @@
 
 #### 5.2.2 Multiplication/ Matrix-Tensor Factorization/ Semantic Matching Models
 
-**Multiplication**
+**Matrix Factorization Models**
 
-**Matrix-Tensor Factorization**
+1. Jenatton, Rodolphe, Nicolas Le Roux, Antoine Bordes and Guillaume Obozinski. “A latent factor model for highly multi-relational data.” NIPS (2012).
+2. Nickel, Maximilian, Volker Tresp and Hans-Peter Kriegel. “A Three-Way Model for Collective Learning on Multi-Relational Data.” ICML (2011).
+3. Yang, Bishan, Wen-tau Yih, Xiaodong He, Jianfeng Gao and Li Deng. “Embedding Entities and Relations for Learning and Inference in Knowledge Bases.” CoRR abs/1412.6575 (2015): n. pag.
+4. Nickel, Maximilian, Lorenzo Rosasco and Tomaso A. Poggio. “Holographic Embeddings of Knowledge Graphs.” AAAI (2016).
+5. Trouillon, Théo, Johannes Welbl, Sebastian Riedel, Éric Gaussier and Guillaume Bouchard. “Complex Embeddings for Simple Link Prediction.” ICML (2016).
+6. Liu, Hanxiao, Yuexin Wu and Yiming Yang. “Analogical Inference for Multi-relational Embeddings.” ICML (2017).
+7. Xue, Yexiang, Yang Yuan, Zhitian Xu and Ashish Sabharwal. “Expanding Holographic Embeddings for Knowledge Completion.” NeurIPS (2018).
+8. Kazemi, Seyed Mehran and David L. Poole. “SimplE Embedding for Link Prediction in Knowledge Graphs.” NeurIPS (2018).
+9. Balazevic, Ivana, Carl Allen and Timothy M. Hospedales. “TuckER: Tensor Factorization for Knowledge Graph Completion.” EMNLP (2019).
+10. Amin, Saadullah, Stalin Varanasi, Katherine Dunfield and Günter Neumann. “LowFER: Low-rank Bilinear Pooling for Link Prediction.” ArXiv abs/2008.10858 (2020): n. pag.
+11. 
 
-**Semantic Matching Models**
+**Neural Network Models**
+
+1. Socher, Richard, Danqi Chen, Christopher D. Manning and A. Ng. “Reasoning With Neural Tensor Networks for Knowledge Base Completion.” NIPS (2013).
+2. Glorot, Xavier, Antoine Bordes, Jason Weston and Yoshua Bengio. “A semantic matching energy function for learning with multi-relational data.” Machine Learning 94 (2013): 233-259.
+3. Socher, Richard, Danqi Chen, Christopher D. Manning and A. Ng. “Reasoning With Neural Tensor Networks for Knowledge Base Completion.” NIPS (2013).
+4. Dong, Xin, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, N. Lao, Kevin P. Murphy, Thomas Strohmann, Shaohua Sun and Wei Zhang. “Knowledge vault: a web-scale approach to probabilistic knowledge fusion.” Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining (2014): n. pag.
+5. LIU, QUAN, Hui Jiang, Zhenhua Ling, Si Wei and Yu Hu. “Probabilistic Reasoning via Deep Learning: Neural Association Models.” ArXiv abs/1603.07704 (2016): n. pag.
+
+**Group theory**
+
+1. Xu, Canran and Ruijiang Li. “Relation Embedding with Dihedral Group in Knowledge Graph.” ACL (2019).
 
 #### 5.2.3 Neural Networks based Models
 
@@ -311,4 +362,31 @@
 ## 8. Knowledge storage/knowledge query
 
 ## 9. Human-computer interaction
+
+## Journals
+
+### IEEE Transactions on Knowledge and Data Engineering
+
+### Information Sciences
+
+### Journal of Machine Learning Research
+
+### Knowledge-based Systems
+
+### Cognitive Computation
+
+### Applied Soft Computing
+
+### Future Generation Computer Systems
+
+### Information Processing and Management
+
+### Neural Computing and Applications
+
+### Expert Systems with Applications
+
+### Ad Hoc Networks
+
+### Engineering Applications of Artificial Intelligence
+
  
