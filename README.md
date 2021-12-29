@@ -328,6 +328,7 @@
 22. Wu, Junkang, Wentao Shi, Xuezhi Cao, Jiawei Chen, Wenqiang Lei, Fuzheng Zhang, Wei Wu and Xiangnan He. “DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network.” Proceedings of the 30th ACM International Conference on Information & Knowledge Management (2021): n. pag.
 23. Li, Qian, Daling Wang, Shi Feng, Cheng Niu and Yifei Zhang. “Global Graph Attention Embedding Network for Relation Prediction in Knowledge Graphs.” IEEE transactions on neural networks and learning systems PP (2021): n. pag.
 24. Zhou, Xue, Bei Hui, Lizong Zhang and Kexi Ji. “A structure distinguishable graph attention network for knowledge base completion.” Neural Comput. Appl. 33 (2021): 16005-16017.
+25. Nguyen, Dai Quoc, Vinh Van Tong, Dinh Q. Phung and Dat Quoc Nguyen. “Node Co-occurrence based Graph Neural Networks for Knowledge Graph Link Prediction.” ArXiv abs/2104.07396 (2021): n. pag.
 
 ### 5.3 Multi-source Information Fusion Models
 
