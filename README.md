@@ -356,6 +356,84 @@
 
 #### 5.4.4 Temporal Logical Reasoning
 
+#### 5.4.5 Temporal Knowledge Graph Completion
+
+**1. Surveys**
+
+[1] TianXiang, Wang. "A Survey on Temporal Knowledge Graph Embedding." (2020).
+
+[2] Cai, Borui, Yong Xiang, Longxiang Gao, He Zhang, Yunfeng Li, and Jianxin Li. "Temporal Knowledge Graph Completion: A Survey." arXiv preprint arXiv:2201.08236 (2022).
+
+**2. Timestamp-included Tensor Decomposition**
+
+[1] L. Lin and K. She, "Tensor Decomposition-Based Temporal Knowledge Graph Embedding," 2020 IEEE 32nd International Conference on Tools with Artificial Intelligence (ICTAI), 2020, pp. 969-975, doi: 10.1109/ICTAI50040.2020.00151.
+
+[2] Lacroix, Timothée, Guillaume Obozinski, and Nicolas Usunier. "Tensor decompositions for temporal knowledge base completion." arXiv preprint arXiv:2004.04926 (2020).
+
+[3] Chengjin Xu, Yung-Yu Chen, Mojtaba Nayyeri, and Jens Lehmann. Temporal knowledge graph completion using a linear temporal regularizer and multivector embeddings. In NAACL, pages 2569–2578. Association for Computational Linguistics, 2021.
+
+[4] Pengpeng Shao, Dawei Zhang, Guohua Yang, Jianhua Tao, Feihu Che, and Tong Liu. Tucker decomposition-based temporal knowledge graph completion. Knowledge-Based Systems, page 107841, 2021.
+
+**3. Timestamp-based Transformation**
+
+[1] Laura Dietz, Alexander Kotov, and Edgar Meij. Utilizing knowledge graphs for text-centric information retrieval. In SIGIR, pages 1387–1390, 2018.
+
+[2] Wessel Radstok and Mel Chekol. Leveraging static models for link prediction in temporal knowledge graphs. arXiv preprint arXiv:2106.15223, 2021.
+
+[3] Alberto Garcı́a-Durán, Sebastijan Dumancic, and Mathias Niepert. Learning sequence encoders for temporal knowledge graph completion. In EMNLP, 2018.
+
+[4] Jingbin Wang, Wang Zhang, Xinyuan Chen, Jing Lei, and Xiaolian Lai. 3drte: 3d rotation embedding in temporal knowledge graph. IEEE Access, 8:207515–207523, 2020.
+
+[5] Shib Sankar Dasgupta, Swayambhu Nath Ray, and Partha Talukdar. Hyte: Hyperplane-based temporally aware knowledge graph embedding. In EMNLP, pages 2001–2011, 2018.
+
+[6] Zhihao Wang and Xin Li. Hybrid-te: Hybrid translation-based temporal knowledge graph embedding. In ICTAI, pages 1446–1451. IEEE, 2019.
+
+[7] Xiaoli Tang, Rui Yuan, Qianyu Li, Tengyun Wang, Haizhi Yang, Yundong Cai, and Hengjie Song. Timespan-aware dynamic knowledge graph embedding by incorporating temporal evolution. IEEE Access, 8:6849–6860, 2020.
+
+[8] Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, and Jens Lehmann. TeRo: A time-aware knowledge graph embedding via temporal rotation. In COLING, pages 1583–1593, 2020.
+
+[9] ulien Leblay, Melisachew Wudage Chekol, and Xin Liu. Towards temporal knowledge graph embeddings with arbitrary time precision. In CIKM, pages
+685–694, 2020
+
+**3. Dynamic Embedding**
+
+[1] Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Yazdi, and Jens Lehmann. Temporal knowledge graph completion based on time series gaussian embedding. In ISWC, pages 654–671. Springer, 2020.
+
+[2] Zhen Han, Peng Chen, Yunpu Ma, and Volker Tresp. Dyernie: Dynamic evolution of riemannian manifold embeddings for temporal knowledge graph completion. EMNLP, page 7301–7316, 2020.
+
+[3] Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, and Pascal Poupart. Diachronic embedding for temporal knowledge graph completion. In AAAI, volume 34, pages 3988–3995, 2020.
+
+[4] Rakshit Trivedi, Hanjun Dai, Yichen Wang, and Le Song. Know-evolve: Deep temporal reasoning for dynamic knowledge graphs. In ICML, pages 3462–3471. PMLR, 2017.
+
+[5] Jiapeng Wu, Meng Cao, Jackie Chi Kit Cheung, and William L Hamilton. Temp: temporal message passing for temporal knowledge graph completion. EMNLP, page 5730–5746, 2020.
+
+[6] 
+
+**4. Learning from Knowledge Graph Snapshots**
+
+[1] Youri Xu, E. Haihong, and Meina Song. Rtfe: A recursive temporal fact embedding framework for temporal knowledge graph completion. In NAACL, 2021.
+
+[2] Siyuan Liao, Shangsong Liang, Zaiqiao Meng, and Qiang Zhang. Learning dynamic embeddings for temporal knowledge graphs. In WSDM, pages 535–543, 2021.
+
+[3] Woojeong Jin, Meng Qu, Xisen Jin, and Xiang Ren. Recurrent event network: Autoregressive structure inference over temporal knowledge graphs. EMNLP, page 6669–6683, 2019.
+
+[4] Zixuan Li, Xiaolong Jin, Wei Li, Saiping Guan, Jiafeng Guo, Huawei Shen, Yuanzhuo Wang, and Xueqi Cheng. Temporal knowledge graph reasoning based on evolutional representation learning. arXiv preprint arXiv:2104.10353, 2021.
+
+[5] Zhen Han, Zifeng Ding, Yunpu Ma, Yujia Gu, and Volker Tresp. Learning neural ordinary equations for forecasting future links on temporal knowledge graphs. In EMNLP, pages 8352–8364, 2021.
+
+[6] 
+
+**5. Reasoning with Historical Context**
+
+[1] Zhen Han, Peng Chen, Yunpu Ma, and Volker Tresp. Explainable subgraph reasoning for forecasting on temporal knowledge graphs. In ICLR, 2020.
+
+[2] aehun Jung, Jinhong Jung, and U Kang. Learning to walk across time for interpretable temporal knowledge graph completion. In KDD, pages 786–795,
+2021.
+
+[3] Luyi Bai, Xiangnan Ma, Mingcheng Zhang, and Wenting Yu. Tpmod: A tendency-guided prediction model for temporal knowledge graph completion. ACM Transactions on Knowledge Discovery from Data, 15(3):1–17, 2021.
+
+[4] Cunchao Zhu, Muhao Chen, Changjun Fan, Guangquan Cheng, and Yan Zhan. Learning from his-tory: Modeling temporal knowledge graphs with sequential copy-generation networks. AAAI, 2021.
+
 ## 6. Knowledge reasoning/knowledge mining
 
 ## 7. Entity link
