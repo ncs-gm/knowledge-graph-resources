@@ -440,15 +440,39 @@
 
 ### IEEE Transactions on Knowledge and Data Engineering
 
+1. Wei, X., Huang, H., Nie, L., Zhang, H., Mao, X., & Chua, T. (2017). I Know What You Want to Express: Sentence Element Inference by Incorporating External Knowledge Base. IEEE Transactions on Knowledge and Data Engineering, 29, 344-358.
+2. Guo, S., Wang, Q., Wang, B., Wang, L., & Guo, L. (2017). SSE: Semantically Smooth Embedding for Knowledge Graphs. IEEE Transactions on Knowledge and Data Engineering, 29, 884-897.
+3. Ebisu, T., & Ichise, R. (2020). Generalized Translation-Based Embedding of Knowledge Graph. IEEE Transactions on Knowledge and Data Engineering, 32, 941-951.
+4. 
+
 ### Information Sciences
+
+1. Dai, C., Chen, L., Li, B., & Li, Y. (2017). Link prediction in multi-relational networks based on relational similarity. Inf. Sci., 394, 198-216.
+2. Zhang, R., Mao, Y., & Zhao, W. (2020). Knowledge graphs completion via probabilistic reasoning. Inf. Sci., 521, 144-159.
+3. Han, Y., Chen, G., Li, Z., Geng, Z., Li, F., & Ma, B. (2020). An asymmetric knowledge representation learning in manifold space. Inf. Sci., 531, 1-12.
+4. Lin, Q., Liu, J., Pan, Y., Zhang, L., Hu, X., & Ma, J. (2021). Rule-enhanced iterative complementation for knowledge graph reasoning. Inf. Sci., 575, 66-79.
 
 ### Journal of Machine Learning Research
 
+1. Trouillon, T., Dance, C.R., Gaussier, É., Welbl, J., Riedel, S., & Bouchard, G. (2017). Knowledge Graph Completion via Complex Tensor Factorization. J. Mach. Learn. Res., 18, 130:1-130:38.
+2. Shi, C., Lu, W., & Song, R. (2019). Determining the Number of Latent Factors in Statistical Multi-Relational Learning. Journal of machine learning research : JMLR, 20.
+
 ### Knowledge-based Systems
+
+1. Bing, L., Zhang, Z., Lam, W., & Cohen, W.W. (2017). Towards a language-independent solution: Knowledge base completion by searching the Web and deriving language pattern. Knowl. Based Syst., 115, 80-86.
+2. Jia, Y., Wang, Y., Jin, X., & Cheng, X. (2018). Path-specific knowledge graph embedding. Knowl. Based Syst., 151, 37-44.
+3. Guan, N., Song, D., & Liao, L. (2019). Knowledge graph embedding with concepts. Knowl. Based Syst., 164, 38-44.
+4. Wang, Q., Hao, Y., & Cao, J. (2020). ADRL: An attention-based deep reinforcement learning framework for knowledge graph reasoning. Knowl. Based Syst., 197, 105910.
+5. Dai, Y., Wang, S., Chen, X., Xu, C., & Guo, W. (2020). Generative adversarial networks based on Wasserstein distance for knowledge graph embeddings. Knowl. Based Syst., 190, 105165.
+6. Li, C., Peng, X., Zhang, S., Peng, H., Yu, P., He, M., Du, L., & Wang, L. (2020). Modeling Relation Paths for Knowledge Base Completion via Joint Adversarial Training.
+7. Wang, Q., Ji, Y., Hao, Y., & Cao, J. (2020). GRL: Knowledge graph completion with GAN-based reinforcement learning. Knowl. Based Syst., 209, 106421.
+8. Zhao, Y., Zhang, A., Feng, H., Li, Q., Gallinari, P., & Ren, F. (2020). Knowledge graph entity typing via learning connecting embeddings. Knowl. Based Syst., 196, 105808.
 
 ### Cognitive Computation
 
 ### Applied Soft Computing
+
+1. Bai, L., Yu, W., Chen, M., & Ma, X. (2021). Multi-hop reasoning over paths in temporal knowledge graphs using reinforcement learning. Appl. Soft Comput., 103, 107144.
 
 ### Future Generation Computer Systems
 
@@ -459,6 +483,8 @@
 ### Expert Systems with Applications
 
 ### Ad Hoc Networks
+
+1. Zhang, Y., Xu, H., Zhang, X., Wu, X., & Yang, Z. (2021). TRFR: A ternary relation link prediction framework on Knowledge graphs. Ad Hoc Networks, 113, 102402.
 
 ### Engineering Applications of Artificial Intelligence
 
