@@ -346,17 +346,7 @@
 
 #### 5.3.7 Entity Attributes
 
-### 5.4 Temporal knowledge graph
-
-#### 5.4.1 Temporal Information Embedding
-
-#### 5.4.2 Entity Dynamics
-
-#### 5.4.3 Temporal Relational Dependency
-
-#### 5.4.4 Temporal Logical Reasoning
-
-#### 5.4.5 Temporal Knowledge Graph Completion
+### 5.4 Temporal Knowledge Graph Completion
 
 **1. Surveys**
 
@@ -433,6 +423,10 @@
 [3] Luyi Bai, Xiangnan Ma, Mingcheng Zhang, and Wenting Yu. Tpmod: A tendency-guided prediction model for temporal knowledge graph completion. ACM Transactions on Knowledge Discovery from Data, 15(3):1–17, 2021.
 
 [4] Cunchao Zhu, Muhao Chen, Changjun Fan, Guangquan Cheng, and Yan Zhan. Learning from his-tory: Modeling temporal knowledge graphs with sequential copy-generation networks. AAAI, 2021.
+
+### 5.5 Few-shot learning
+
+1. Hamaguchi, T., Oiwa, H., Shimbo, M., & Matsumoto, Y. (2017). Knowledge Transfer for Out-of-Knowledge-Base Entities: A Graph Neural Network Approach. ArXiv, abs/1706.05674.
 
 ## 6. Knowledge reasoning/knowledge mining
 
