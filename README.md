@@ -252,6 +252,23 @@
 
 #### 5.2.1 Translation-based models
 
+1. (TransE) Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, Jason Weston, Oksana Yakhnenko. "Translating Embeddings for Modeling Multi-relational Data". NeurIPS 2013
+2. (TransH) Zhen Wang, Jianwen Zhang, Jianlin Feng, Zheng Chen. "Knowledge Graph Embedding by Translating on Hyperplanes". AAAI 2014.
+3. (TransR/CTransR) Yankai Lin, Zhiyuan Liu, Maosong Sun, Yang Liu, Xuan Zhu. "Learning Entity and Relation Embeddings for Knowledge Graph Completion". AAAI 2015
+4. (TransD) Guoliang Ji, Shizhu He, Liheng Xu, Kang Liu, Jun Zhao. "Knowledge Graph Embedding via Dynamic Mapping Matrix". ACL 2015
+5. (KG2E) Shizhu He, Kang Liu, Guoliang Ji, Jun Zhao. "Learning to Represent Knowledge Graphs with Gaussian Embedding". CIKM 2015
+6. (TransA) Yantao Jia, Yuanzhuo Wang, Hailun Lin, Xiaolong Jin, Xueqi Cheng. "Locally Adaptive Translation for Knowledge Graph Embedding". AAAI 2016
+7. (TranSparse) Guoliang Ji, Kang Liu, Shizhu He, Jun Zhao. "Knowledge Graph Completion with Adaptive Sparse Transfer Matrix". AAAI 2016
+8. (TransG) Han Xiao, Minlie Huang, Xiaoyan Zhu. "TransG: A Generative Model for Knowledge Graph Embedding". ACL 2016
+9. (TorusE) Takuma Ebisu, Ryutaro Ichise. "TorusE: Knowledge Graph Embedding on a Lie Group". AAAI 2018.
+10. (RotatE) Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang. "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space". ICLR 2019
+11. (MuRP) Ivana Balaževic, Carl Allen, Timothy Hospedales. "Multi-relational Poincaré Graph Embeddings". NeurIPS 2019
+12. (HAKE) Zhanqiu Zhang, Jianyu Cai, Yongdong Zhang, Jie Wang. "Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction". AAAI 2020
+13. (Rotate3D) Chang Gao, Chengjie Sun, Lili Shan, Lei Lin, Mingjiang Wang. "Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Knowledge Graph Embedding". CIKM 2020
+14. (LineaRE) Yanhui Peng, Jing Zhang. "LineaRE: Simple but Powerful Knowledge Graph Embedding for Link Prediction". ICDM 2020.
+15. (HyperKG) Prodromos Kolyvakis, Alexandros Kalousis, Dimitris Kiritsis. "Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion". ESWC 2020
+16. 
+
 #### 5.2.2 Multiplication/ Matrix-Tensor Factorization/ Semantic Matching Models
 
 **Matrix Factorization Models**
@@ -470,17 +487,46 @@
 
 ### Cognitive Computation
 
+1. He, L., Liu, B., Li, G., Sheng, Y., Wang, Y., & Xu, Z. (2018). Knowledge Base Completion by Variational Bayesian Neural Tensor Decomposition. Cognitive Computation, 10, 1075-1084.
+2. 
+
 ### Applied Soft Computing
 
 1. Bai, L., Yu, W., Chen, M., & Ma, X. (2021). Multi-hop reasoning over paths in temporal knowledge graphs using reinforcement learning. Appl. Soft Comput., 103, 107144.
+2. Liu, H., Bai, L., Ma, X., Yu, W., & Xu, C. (2019). ProjFE: Prediction of fuzzy entity and relation for knowledge graph completion. Appl. Soft Comput., 81.
+3. 
 
 ### Future Generation Computer Systems
 
+1. Nie, B., & Sun, S. (2019). Knowledge graph embedding via reasoning over entities, relations, and text. Future Gener. Comput. Syst., 91, 426-433.
+2. Assi, A., & Dhifli, W. (2021). Instance Matching in Knowledge Graphs through random walks and semantics. Future Gener. Comput. Syst., 123, 73-84.
+3. Omran, P.G., Wang, K., & Wang, Z. (2021). An Embedding-Based Approach to Rule Learning in Knowledge Graphs. IEEE Transactions on Knowledge and Data Engineering, 33, 1348-1359.
+4. Ho, V.T., & Stepanova, D. (2018). An Embedding-based Approach to Rule Learning from Knowledge Graphs.
+5. Xiao, H., Chen, Y., & Shi, X. (2021). Knowledge Graph Embedding Based on Multi-View Clustering Framework. IEEE Transactions on Knowledge and Data Engineering, 33, 585-596.
+6. Sun, H., & Sun, S. (2016). A Novel Reconfigurable Feeding Network for Quad-Polarization-Agile Antenna Design. IEEE Transactions on Antennas and Propagation, 64, 311-316.
+7. Wang, M., Chen, W., Wang, S., Jiang, Y., Yao, L., & Qi, G. (2021). Efficient search over incomplete knowledge graphs in binarized embedding space. Future Gener. Comput. Syst., 123, 24-34.
+
 ### Information Processing and Management
+
+1. Tang, X., Chen, L., Cui, J., & Wei, B. (2019). Knowledge representation learning with entity descriptions, hierarchical types, and textual relations. Inf. Process. Manag., 56, 809-822.
+2. 
 
 ### Neural Computing and Applications
 
+1.  Lin, X., Liang, Y., Giunchiglia, F., Feng, X., & Guan, R. (2018). Relation path embedding in knowledge graphs. Neural Computing and Applications, 31, 5629-5639.
+2.  Lei, K., Zhang, J., Xie, Y., Wen, D., Chen, D., Yang, M., & Shen, Y. (2019). Path-based reasoning with constrained type attention for knowledge graph completion. Neural Computing and Applications, 32, 6957-6966.
+3.  Liu, H., Hu, K., Wang, F.L., & Hao, T. (2020). Aggregating neighborhood information for negative sampling for knowledge graph embedding. Neural Computing and Applications, 1-17.
+4.  Hu, K., Liu, H., Zhan, C., Tang, Y., & Hao, T. (2021). Learning knowledge graph embedding with a bi-directional relation encoding network and a convolutional autoencoder decoding network. Neural Comput. Appl., 33, 11157-11173.
+5.  Huang, J., Zhang, T., Zhu, J., Yu, W., Tang, Y., & He, Y. (2021). A deep embedding model for knowledge graph completion based on attention mechanism. Neural Comput. Appl., 33, 9751-9760.
+6.  Liu, H., Hu, K., Wang, F.L., & Hao, T. (2020). Aggregating neighborhood information for negative sampling for knowledge graph embedding. Neural Computing and Applications, 1-17.
+7.  Zhou, X., Hui, B., Zhang, L., & Ji, K. (2021). A structure distinguishable graph attention network for knowledge base completion. Neural Comput. Appl., 33, 16005-16017.
+
 ### Expert Systems with Applications
+
+1. Chen, X., Jia, S., Ding, L., Shen, H., & Xiang, Y. (2020). SDT: An integrated model for open-world knowledge graph reasoning. Expert Syst. Appl., 162, 113889.
+2. Jagvaral, B., Lee, W., Roh, J., Kim, M., & Park, Y. (2020). Path-based reasoning approach for knowledge graph completion using CNN-BiLSTM with attention mechanism. Expert Syst. Appl., 142.
+3. Zeb, A., Haq, A.U., Zhang, D., Chen, J., & Gong, Z. (2021). KGEL: A novel end-to-end embedding learning framework for knowledge graph completion. Expert Syst. Appl., 167, 114164.
+4. Lee, W., Shin, W., Jagvaral, B., Roh, J., Kim, M., Lee, M., Park, H., & Park, Y. (2021). A path-based relation networks model for knowledge graph completion. Expert Syst. Appl., 182, 115273.
 
 ### Ad Hoc Networks
 
@@ -488,4 +534,6 @@
 
 ### Engineering Applications of Artificial Intelligence
 
+1. Borrego, A., Ayala, D., Hernández, I., Rivero, C.R., & Ruiz, D. (2021). CAFE: Knowledge graph completion using neighborhood-aware features. Eng. Appl. Artif. Intell., 103, 104302.
+2. 
  
